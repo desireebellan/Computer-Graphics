@@ -20,4 +20,7 @@ The project consists in the implementation of two extensions for the Yocto/GL li
 ## Contributing
 ## Licence
 ## Acknowledgements
+[1] Matt Pharr. “The Implementation of a Hair Scattering Model”. In: Physically Based Renderings. Ed. by Pharr Matt, Jakob Wenzel, and Humphreys Greg. 2016
+
+[2] Rohan Sawhney and Keenan Crane. “Monte Carlo Geometry Processing: A Grid-Free Approach to PDE-Based Methods on Volumetric Domains”. In: ACM Trans. Graph. 39.4 (2020).
 
